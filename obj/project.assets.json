@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\rlmsa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages": {},
+    "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rlmsa\\source\\repos\\BlazorServerAuth\\BlazorServerAuth.csproj",
+      "projectName": "BlazorServerAuth",
+      "projectPath": "C:\\Users\\rlmsa\\source\\repos\\BlazorServerAuth\\BlazorServerAuth.csproj",
+      "packagesPath": "C:\\Users\\rlmsa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rlmsa\\source\\repos\\BlazorServerAuth\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+        "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\rlmsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+        "C:\\Projects\\Nuget-Packages": {},
+        "C:\\Projects\\Vamos.Local.Feed": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/JXHYPmjId7iMmo7PJIFPFLz3vlg832fvoQQzlcoQvJ7FUg2Y3I/api": {},
+        "https://pkgs.dev.azure.com/verbruggeinternational/948efb22-e341-478e-8475-6a84559c4be1/_packaging/Vamos-Metal.Model/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/verbruggeinternational/Vamos-Nuget/_packaging/Vamos-Global-Prerelease/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/verbruggeinternational/Vamos-Nuget/_packaging/Vamos-Global/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/verbruggeinternational/Vamos.Woodpulp/_packaging/Vamos-Woodpulp-Model/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/verbruggeinternational/Vamos.Woodpulp/_packaging/Vamos.WP.Prerelease/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/verbruggeinternational/ea4f335b-e5f2-4a25-85c8-ea8e75a8c93c/_packaging/Vamos.Calculus.Module/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
