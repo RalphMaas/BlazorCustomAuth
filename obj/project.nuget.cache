@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UWkbgzlVNU6JMNEf2wtOZIaKBYC9BDp6ytv9Nz+vNGUPrT5424FYwSq2mo99ATMahIGMf3sHmPlzPUBc66OKqg==",
+  "dgSpecHash": "TJVqZ5cLalsYhVjuQ4u+STFSEMIKeAt5RWRrAq1Yg+TynWDFYGOT4Tcbo4sDcJZX0uzvJogIxW4pYiotZA8MQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rlmsa\\source\\repos\\BlazorServerAuth\\BlazorServerAuth.csproj",
+  "projectFilePath": "C:\\Users\\rlmsa\\source\\repos\\BlazorServerAuth\\BlazorCustomAuth\\BlazorServerAuth.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
